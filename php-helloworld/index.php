@@ -1,10 +1,5 @@
 <?php
 print "Hello, World!... php version is " . PHP_VERSION . "\n";
-<<<<<<< HEAD
 print "A console change is in the air!\n";
 print "hi hi 2021 10 18\n"
-=======
-print "A change is in the air!\n";
-print "The third change is here.\n";
->>>>>>> fd29adaf1793d569826e1c6fe1061965e653b550
 ?>
